@@ -1,0 +1,19 @@
+{
+  "name": "can_logger_website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.4.13",
+    "csv-export": "^1.0.2",
+    "express": "^4.17.0",
+    "express-fileupload": "^1.1.4",
+    "line-by-line": "^0.1.6",
+    "read-text-file": "^1.1.0"
+  }
+}
